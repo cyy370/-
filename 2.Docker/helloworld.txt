@@ -1,0 +1,11 @@
+Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.41
+3.12.12
+Hello, World!
+
+
+
+
+
+
+
+/*批注一下：中途遇到一些报错询问了一下AI。因为我无法访问python:3.6-slim，所以我在Dockerfile中修改成了python:3.12-slim*/
